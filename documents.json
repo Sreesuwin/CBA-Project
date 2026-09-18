@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6aad33f2d86486723d3c85f7"
+  },
+  "application_id": 1,
+  "files": [
+    {
+      "type": "Income Proof",
+      "filename": "salary_slip.pdf",
+      "status": "SUBMITTED",
+      "uploaded_at": "2026-09-18T18:00:00"
+    }
+  ]
+}]

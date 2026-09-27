@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="Personal loan icon">
+  <rect width="96" height="96" rx="18" fill="#e0e7ff"/>
+  <circle cx="42" cy="34" r="14" fill="#1d4ed8"/>
+  <path d="M20 78c0-15 10-24 22-24s22 9 22 24z" fill="#1d4ed8"/>
+  <circle cx="70" cy="66" r="17" fill="#fbbf24"/>
+  <text x="70" y="73" font-family="Segoe UI, Arial" font-size="18" font-weight="700" text-anchor="middle" fill="#7c2d12">&#8377;</text>
+</svg>

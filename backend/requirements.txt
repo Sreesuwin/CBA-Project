@@ -1,0 +1,27 @@
+# Core framework
+Flask>=3.0
+Flask-Cors>=4.0
+Flask-JWT-Extended>=4.6
+Flask-SQLAlchemy>=3.1
+
+# Databases
+# PyMySQL is only needed once we point at the real MySQL schema.
+# psycopg2-binary is the PostgreSQL driver: Supabase (cloud Postgres) and any
+# local postgres container. psycopg2 (non-binary) can be swapped in for a
+# production build with a compiler; the app works with either.
+# pymongo handles the document/audit collections.
+PyMySQL>=1.1
+psycopg2-binary>=2.9
+pymongo>=4.6
+
+# Security
+bcrypt>=4.1
+
+# Config
+python-dotenv>=1.0
+
+# Validation
+marshmallow>=3.20
+
+# Tests
+pytest>=8.0

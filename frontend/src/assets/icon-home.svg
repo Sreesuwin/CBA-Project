@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="Home loan icon">
+  <rect width="96" height="96" rx="18" fill="#fef3c7"/>
+  <path d="M48 18 82 46H72v30H24V46H14z" fill="#d97706"/>
+  <rect x="40" y="54" width="16" height="22" rx="2" fill="#fde68a"/>
+  <rect x="28" y="52" width="10" height="10" rx="1.5" fill="#fde68a"/>
+  <rect x="58" y="52" width="10" height="10" rx="1.5" fill="#fde68a"/>
+</svg>

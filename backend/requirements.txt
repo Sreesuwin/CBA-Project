@@ -11,7 +11,7 @@ Flask-SQLAlchemy>=3.1
 # production build with a compiler; the app works with either.
 # pymongo handles the document/audit collections.
 PyMySQL>=1.1
-psycopg2-binary>=2.9
+psycopg2-binary>=3.2
 pymongo>=4.6
 
 # Security
